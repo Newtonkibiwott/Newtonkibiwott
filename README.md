@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Newton Kibiwott
+👋 Hi, I’m Newton Kibiwott
 - 👀 Welcome to my GitHub playground, where pixels come to life! I'm deeply passionate about creating captivating web and app
  designs that seamlessly blend aesthetics with functionality. Here, you'll find a collection of projects that reflect my journey in the ever-evolving world of design.
   
