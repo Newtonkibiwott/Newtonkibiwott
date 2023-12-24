@@ -4,8 +4,8 @@
   
 - 💞 I'm on the lookout for opportunities to collaborate with fellow designers, developers, and anyone who shares a
    love for crafting beautiful and intuitive user interfaces. Whether it's a design challenge, a collaborative project, or just a friendly chat about the latest design trends, I'm all ears!
--  
-- Feel free to connect with me on Whatsapp at +254742169844. Let's create designs that leave a lasting impression and bring ideas to life!
+   
+- Feel free to connect with me on WhatsApp at +254742169844. Let's create designs that leave a lasting impression and bring ideas to life!
 
 Designing the future, one pixel at a time! ✨
 <!---
